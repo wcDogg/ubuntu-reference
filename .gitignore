@@ -1,0 +1,10 @@
+# Ignore sensitive files
+.env
+_drafts
+
+# Ignore VS Code
+.vscode
+
+# Ignore Python
+__pycache__
+venv
